@@ -1,0 +1,19 @@
+{
+  "name": "diablo3-stat",
+  "version": "1.0.0",
+  "description": "Diablo 3 Stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reidster/diablo3-stat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reidster/diablo3-stat/issues"
+  },
+  "homepage": "https://github.com/reidster/diablo3-stat#readme"
+}
